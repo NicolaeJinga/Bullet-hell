@@ -15,7 +15,7 @@ Move around with the butterfly to collect pickups which are out of reach.
 
 ![](GameMechanics.png)
 
-## Usage
+## Keys
 
 * Control Dragon with WASD keys
 * Control Buttefly with Arrow keys
