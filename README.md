@@ -10,7 +10,7 @@ Move around with the butterfly to collect pickups which are out of reach.
 
 ![](BulletHellGameplay.gif)
 
-![](GameMechanics.png)
+
 
 ## Usage
 
