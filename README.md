@@ -19,7 +19,8 @@ Move around with the butterfly to collect pickups which are out of reach.
 
 * Control Dragon with WASD keys
 * Control Buttefly with Arrow keys
-
-
+* Shoot ice shards with SPACE
+* Activate powerup with Left Shift
+* Restart game with Left Shift
 
 
