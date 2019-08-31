@@ -7,6 +7,8 @@ You are controlling two characters: a dragon and a butterfly, each with their ow
 
 ![](BulletHellGameplay.gif)
 
+![](GameMechanics.png)
+
 ## Usage
 
 * Control Dragon with WASD keys
